@@ -1,6 +1,7 @@
 import React from 'react'
-import Web from "../src/images/f-car.png"
+// import Web from "../src/images/f-car.png"
 // import { NavLink } from "react-router-dom"
+import Web from "../src/images/g-.png"
 import Common from './Common'
 
 const About = () => {
