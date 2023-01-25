@@ -18,7 +18,7 @@ const Service = () => {
 
                 Sdata.map((val,ind) => {
 
-                  return <Card key={ind} imgscr={val. imgscr} title={val.title}/>
+                  return <Card key={ind} imgscr={val.imgscr} title={val.title}/>        // when map is used then key is also usedkey={}
                 })
 
               }
